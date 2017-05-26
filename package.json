@@ -56,7 +56,7 @@
   "devDependencies": {
     "@types/chai": "^3.5.2",
     "@types/mocha": "^2.2.41",
-    "chai": "^3.5.0",
+    "chai": "^4.0.0",
     "coveralls": "^2.13.1",
     "gitty": "^3.6.0",
     "grunt": "^1.0.1",
